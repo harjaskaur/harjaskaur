@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harjas Kaur</h1>
+<h2 align="center">Hi, I'm Harjas Kaur</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **harjas.ratol@gmail.com**
