@@ -1,6 +1,6 @@
 # 💫About Me 
 
-Hi ! I am Harjas Kaur Ratol.
+Hi ! I am Harjas Kaur Ratol
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/harjaskaurratol)
